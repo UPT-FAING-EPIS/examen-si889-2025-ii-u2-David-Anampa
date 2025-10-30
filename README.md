@@ -76,10 +76,6 @@ Este repositorio contiene tres aplicaciones desarrolladas como parte del examen 
 - Crea diagramas de arquitectura automáticamente
 - Publica todo en GitHub Pages con interfaz profesional
 
-### URLs que se generarán automáticamente:
-- **Aplicativo01:** https://tu-usuario.github.io/tu-repo/ (aplicación + cobertura)
-- **Aplicativo02:** https://tu-usuario.github.io/tu-repo/ (documentación + diagramas)
-- **Releases:** https://github.com/tu-usuario/tu-repo/releases
 
 ## Tecnologías Utilizadas
 

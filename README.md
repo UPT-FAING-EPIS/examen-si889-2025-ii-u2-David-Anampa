@@ -153,4 +153,4 @@ Este proyecto demuestra la implementación de diferentes patrones de diseño y t
 
 **Desarrollado por:** David Jordan Anampa Pancca  
 **Curso:** Patrones de Diseño  
-**Institución:** Universidad bajo supervisión del Ing. Patrick Cuadros
+**Institución:** Universidad Privada de Tacna - Ing. Patrick Cuadros

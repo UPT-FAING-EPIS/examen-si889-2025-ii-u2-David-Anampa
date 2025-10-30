@@ -152,5 +152,5 @@ dotnet test
 Este proyecto demuestra la implementación de diferentes patrones de diseño y tecnologías, con especial énfasis en la automatización de procesos mediante GitHub Actions. Cada aplicativo está diseñado para mostrar buenas prácticas de desarrollo, testing y deployment.
 
 **Desarrollado por:** David Jordan Anampa Pancca  
-**Curso:** Patrones de Diseño  
+**Curso:** Patrones de Software  
 **Institución:** Universidad Privada de Tacna - Ing. Patrick Cuadros
